@@ -1,0 +1,4 @@
+- The if statemet is used to check if the condition is true 
+-The elif statement is used to check the condition if the condition of the if statement is false and if the elif condition 
+or you can say the code or block of the elif is true it get executed
+-The else statement is used to define a block of code that will be executed if all the previous conditions (in the if and elif statements) are false
