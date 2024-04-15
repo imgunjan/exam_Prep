@@ -7,6 +7,7 @@ class Employee:
         print(f"the name of employee {self.id} is {self.name}")
 
 
+# Inherting the Employee class in Programmer class
 class Programmer(Employee):
     def showLanguage(self):
         print("The default language is Python ")
